@@ -38,7 +38,7 @@ const Home: NextPage<Props> = ({ allPostsData }) => {
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>自己紹介欄</p>
+        <p>自己紹介を入力</p>
       </section>
 
       <section>
